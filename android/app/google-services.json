@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216874030342",
+    "project_id": "medstoker-21297",
+    "storage_bucket": "medstoker-21297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216874030342:android:c908bf07e23c763ae57a87",
+        "android_client_info": {
+          "package_name": "com.example.medstoker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGWZMK8McZqAkuEAEMLUtUt3lYtkOTWX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
