@@ -1,16 +1,1 @@
-# medstoker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MediStock is a simple, easy-to-use web app that helps pharmacy owners and suppliers manage their supplies better. With real-time stock tracking and automatic order updates, it ensures stock replenishment, minimizes shortages, and reduces overstock. MediStock makes it easier for pharmacy owners to keep their shelves full, save time, and work more smoothly with their suppliers—all in one place.
